@@ -19,7 +19,7 @@
 - It is complete responsive.
 
 ## screenshot
-<img src="">
+<img src="https://github.com/Pooja-saini467/TestiMonial-grid-section/blob/main/design/desktop-design.jpg">
 
 
 ## Live Link
