@@ -1,8 +1,5 @@
 # TestiMonial-grid-section
 
-# Frontend Mentor - E-commerce product page
-
-
 ## Welcome! 👋
 
 ## Table of contents
